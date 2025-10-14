@@ -1,2 +1,2 @@
-# dados_estatisticos_em_pdf
-Criação de base teste de exemplos, consolidação dos arquivos e geração de pdf com análises iniciais sobre os dados no período de tempo observado.
+# Dashboard contrução de visual - desafio Bootcamp DIO Klabin
+##Criação de visual de 1 página de um relatório de vendas no Power BI. O Relatório Final esta no arquivo em pdf (relatório de vendas). Todos os arquivos utilizados estão na pasta desse repositório.
