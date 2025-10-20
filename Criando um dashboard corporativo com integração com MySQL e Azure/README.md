@@ -39,7 +39,7 @@ O objetivo deste desafio foi:
 ---
 **OBS: este projeto é resposta de um desafio proposto pelo Bootcamp de Analise de dados, parceria entre a plataforma Dio e Klabin.**
 
-O repositório com o desafio original pode ser encontrado em: [Desafio Power BI Cursp - Juliana Mascarenhas](https://github.com/julianazanelatto/power_bi_analyst/tree/main/M%C3%B3dulo%203/Desafio%20de%20Projeto)
+O repositório com o desafio original pode ser encontrado em: [Desafio Power BI Curso - Juliana Mascarenhas](https://github.com/julianazanelatto/power_bi_analyst/tree/main/M%C3%B3dulo%203/Desafio%20de%20Projeto)
 
 
 ---
